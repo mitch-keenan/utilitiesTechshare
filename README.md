@@ -1,6 +1,6 @@
 # Mac Utilities
 
-[Presentation Here](http://mitchkeenan.com/utilities)
+[Presentation Here](http://mitchkeenan.com/utilitiesTechshare)
 
 Without further ado, Here's the list:
 
